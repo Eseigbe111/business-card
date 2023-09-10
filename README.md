@@ -1,0 +1,1 @@
+This project focuses on the creation of business card as my second project in learning css and html from scrimba training by Per Harald Borgen
